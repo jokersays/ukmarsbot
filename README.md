@@ -1,3 +1,20 @@
+# update CW2025
+## wall sensor
+- LED (sichtbares Licht): TCLR5800 https://eu.mouser.com/ProductDetail/Vishay-Semiconductors/TLCR5800?qs=mUuSc%2Fu%252BFEmjc7YwQS0o5A%3D%3D&srsltid=AfmBOopzCn7n3C-wtkQbLPWO1j8fxE9Hj8DcGLDCGrcggpLkpXWju-RC
+- Phototransistor: BPW96B https://www.mouser.de/ProductDetail/Vishay-Semiconductors/BPW96B?qs=%2Fjqivxn91cdilznm00Ncpg%3D%3D&utm_id=10065984414&utm_source=google&utm_medium=cpc&utm_marketing_tactic=emeacorp&gad_source=5&gad_campaignid=10065984414&gclid=EAIaIQobChMIq9jEloT5jgMVpy0GAB1_qAhfEAAYAiAAEgKWzvD_BwE
+
+## motor
+- N20 Gear Motor mit Encoder, 6V, 20:1 / ~1000 RPM (oder 750 RPM) AliExpress?
+
+## capacitor
+- 470uF 10V 6.3mm, <12mm h, radial 2.5
+- 330uF 10V radial 2.5
+--> mouser
+
+
+
+
+
 # ukmarsbot
 
 __A simple beginner's multi purpose robot platform__
